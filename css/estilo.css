@@ -1,0 +1,44 @@
+body{
+	font-size: 1em;.
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #FAEBD7;
+
+}
+
+#cabecalho{
+	background-color: black;
+	 color:white;
+	 text-align:center;
+	 padding: 15px;
+	 margin: 25px;
+}
+
+
+
+#inicio{
+ 	background-color: black;
+ 	color: #009967;
+ 	padding: 50px;
+	font-size: 25px;
+}
+
+#rodape{
+	clear: both;
+	text-align: center;
+	padding: 20px;
+	background: #363636;
+	margin: 50px;
+	color: white;
+}
+
+
+p{
+	text-align:center;
+}
+h1{
+	text-align: center;
+	background: black;
+	color: white;
+	font-family: italic;
+}
+
